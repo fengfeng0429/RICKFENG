@@ -1,13 +1,15 @@
 ## Welcome to Learning note
-9/20筆記:<br>
+week 1 筆記:<br>
 [linked list](https://hackmd.io/@Zq6oiEB9Ty-KvUdV9n7vOw/ryfRSqEPB)<br>
-9/20練習/作業:<br>
-[leetcode-linked list](https://github.com/fengfeng0429/RICKFENG-DSA/blob/master/leetcode/9.20%20linked%20list)<br>
-9/27筆記:<br>
+week 1 練習/作業:<br>
+[leetcode-linked list](https://github.com/fengfeng0429/RICKFENG-DSA/tree/master/leetcode/week%201)<br>
+week 2 筆記:<br>
 [Stack and Queue](https://www.csie.ntu.edu.tw/~r95116/CA200/slide/C8_StackQueue.pdf)<br>
 [Markdown](https://blog.csdn.net/zhaokaiqiang1992/article/details/41349819)<br>
-9/27練習/作業:<br>
-[Stack and Queue](https://github.com/fengfeng0429/RICKFENG-DSA/blob/master/leetcode/9.27%20Stack%20and%20Queue)
+week 3 練習/作業:<br>
+[Stack and Queue](https://github.com/fengfeng0429/RICKFENG-DSA/tree/master/leetcode/week%202)<br>
+week 4 筆記:<br>
+week 4 練習/作業:<br>
 
 
 ## Something about me:
