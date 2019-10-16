@@ -14,9 +14,12 @@ week 4 練習/作業:<br>
 
 ## Something about me:
 Name:馮正毅<br>
+<img src="/selfintro/images/8.png" width="10%">
 Major:<br>
 SCU English<br>
 SCU Big Data<br>
+
+
 ## Why am I double-majoring:<br>
 1. I am interesting in NLP and machine translation.<br>
 2. I want to know whether human translation be replaced by machine.<br>
