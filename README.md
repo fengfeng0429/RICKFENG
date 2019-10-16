@@ -13,8 +13,8 @@ week 4 練習/作業:<br>
 
 
 ## Something about me:
+<img src="/selfintro/images/8.png" width="13%"><br>
 Name:馮正毅<br>
-<img src="/selfintro/images/8.png" width="10%"><br>
 Major:<br>
 SCU English<br>
 SCU Big Data<br>
@@ -23,8 +23,8 @@ Languages:<br>
 English:<br>Listening:Mastered<br>Speaking:Mastered<br>Reading:Mastered<br>Writing:Mastered<br>
 Skills:<br>
 基礎程式語言編譯:<br>Css<br>HTML<br>JavaScript<br>SQL<br>PHP<br>Python<br>
-中英翻譯:<br><br>筆譯(中翻英:精通,英翻中:精通)<br><br>口譯(逐步:精通,同步:精通)<br><br>翻譯領域:<br><br>影視,電玩,科技,新聞,人文藝術<br>
-英文教學:<br><br>家教,大型及小型班級教學<br>
+中英翻譯:<br><br>筆譯(中翻英:精通,英翻中:精通)<br><br>口譯(逐步:精通,同步:精通)<br><br>翻譯領域:<br><br>影視,電玩,科技,新聞,人文藝術<br><br.
+英文教學:<br><br>家教,大型及小型班級教學<br><br>
 ## Selfintro:<br>
 &nbsp&nbsp個性獨立,做事詳細,認真計畫<br><br>
 自身個性十分獨立,喜歡自己思考自己想辦法、找方法。在學校的每一項作業或工作會事先查閱背景資料、做足研究,在排好時間完成。<br><br>
