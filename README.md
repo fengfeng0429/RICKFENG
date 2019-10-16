@@ -26,9 +26,8 @@ a.[斷開中文的鎖鍊！自然語言處理](http://research.sinica.edu.tw/nlp
 b.[自然語言處理實驗室](http://nlg.csie.ntu.edu.tw/)<br>
 c.[從ACL 2017 看到四個在自然語言處理(NLP)的趨勢](https://medium.com/@cyeninesky3/%E5%BE%9Eacl-2017-%E7%9C%8B%E5%88%B0%E5%9B%9B%E5%80%8B%E5%9C%A8%E8%87%AA%E7%84%B6%E8%AA%9E%E8%A8%80%E8%99%95%E7%90%86-nlp-%E7%9A%84%E8%B6%A8%E5%8B%A2-3163c6a91c50)<br>
 d.[Natural Language Processing & Machine Translation Labs](http://nlp.csie.ncnu.edu.tw/~shin/)<br>
-Natural language processing:<br>
+##Natural language processing:<br>
 Natural language processing (NLP) is a subfield of linguistics, computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data.<br>
-
 Challenges in natural language processing frequently involve speech recognition, natural language understanding, and natural language generation.<br>
 Rule-based vs. statistical NLP:<br>
 In the early days, many language-processing systems were designed by hand-coding a set of rules:such as by writing grammars or devising heuristic rules for stemming.<br>
