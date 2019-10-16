@@ -1,0 +1,21 @@
+body {
+	background: url("../images/11.jpg");
+	background-repeat: no-repeat;
+	background-size: 2000px 3000px;
+	background-position: center;
+
+}
+#t1{ 
+	color: #4B0082;
+	text-align: center;
+	font-family: Arial;
+}
+h1,h2,#school,#language,#club,#skill,#info
+#selfintrot,#selfintro,#expt,#exp{
+	font-family: Arial;
+
+}
+#selfintrot,#selfintro,#expt,#exp{
+	text-align: center;
+    
+}
