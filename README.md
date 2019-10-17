@@ -13,6 +13,7 @@ week 4 筆記:<br>
 [insertion sort on py 2](https://www.youtube.com/watch?v=lEA31vHiry4)<br>
 week 4 練習:<br>
 [insertion sort](https://github.com/fengfeng0429/RICKFENG-DSA/blob/master/leetcode/week%204/insertion%20sort.py)<br>
+[setmismatch](https://github.com/fengfeng0429/RICKFENG-DSA/blob/master/leetcode/week%204/setmismatch.py)<br>
 week 4 作業:<br>
 
 
