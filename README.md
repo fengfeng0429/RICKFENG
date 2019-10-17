@@ -2,12 +2,12 @@
 week 2 筆記:<br>
 [linked list](https://hackmd.io/@Zq6oiEB9Ty-KvUdV9n7vOw/ryfRSqEPB)<br>
 week 2 練習/作業:<br>
-[leetcode-linked list](leetcode/week 2/Linked list.py)<br>
+[leetcode-linked list](https://github.com/fengfeng0429/RICKFENG-DSA/blob/master/leetcode/week%202/Linked%20list.py)<br>
 week 3 筆記:<br>
 [Stack and Queue](https://www.csie.ntu.edu.tw/~r95116/CA200/slide/C8_StackQueue.pdf)<br>
 [Markdown](https://blog.csdn.net/zhaokaiqiang1992/article/details/41349819)<br>
 week 3 練習/作業:<br>
-[Stack and Queue](https://github.com/fengfeng0429/RICKFENG-DSA/tree/master/leetcode/week%202)<br>
+[Stack and Queue](https://github.com/fengfeng0429/RICKFENG-DSA/blob/master/leetcode/week%203/Stack%20and%20Queue.py)<br>
 week 4 筆記:<br>
 week 4 練習/作業:<br>
 
