@@ -16,7 +16,7 @@ week 4 練習:<br>
 [setmismatch](https://github.com/fengfeng0429/RICKFENG-DSA/blob/master/leetcode/week%204/setmismatch.py)<br>
 week 4 作業:<br>
 [Quick Sort](https://github.com/fengfeng0429/RICKFENG-DSA/blob/master/leetcode/week%204/HW1/Quick%20sort%2004121106.ipynb)<br>
-<img src="leetcode/week 4/HW1/IMG_1118.jpg" width="50%">
+[Quick Sort drawing](https://github.com/fengfeng0429/RICKFENG-DSA/blob/master/leetcode/week%204/HW1/Quick%20Sort%20Diagram.svg)
 
 
 ## Something about me:
