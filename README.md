@@ -17,6 +17,16 @@ week 4 練習:<br>
 week 4 作業:<br>
 [Quick Sort](https://github.com/fengfeng0429/RICKFENG-DSA/blob/master/leetcode/week%204/HW1/Quick%20sort%2004121106.ipynb)<br>
 [Quick Sort drawing](https://github.com/fengfeng0429/RICKFENG-DSA/blob/master/leetcode/week%204/HW1/Quick%20Sort%20Diagram.svg)
+week 5 作業:<br>
+[Hw2 Merge sort&Heap sort]()<br>
+[Hw2 Merge sort Drawing]()<br>
+[Hw2 Heap sort Drawing]()<br>
+week 6 練習:<br>
+[Binary tree](https://github.com/fengfeng0429/RICKFENG-DSA/blob/master/leetcode/week%206/Binary%20Tree.py)<br>
+week 6 筆記:<br>
+[Binary tree](https://www.youtube.com/watch?v=dGJtKxBpP00)<br>
+[leetcode](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)<br>
+
 
 
 ## Something about me:
