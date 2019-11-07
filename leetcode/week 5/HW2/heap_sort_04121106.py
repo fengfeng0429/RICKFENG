@@ -46,11 +46,6 @@ class Solution(object):
 # In[331]:
 
 
-output=Solution().heap_sort([7,5,8,25,28,3])
-output
-
-
-# In[ ]:
 
 
 
