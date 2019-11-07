@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[18]:
 
 
 ##### merge_sort_04121106.py
@@ -91,14 +88,6 @@ class Solution(object):
 # 想到了很多 我沒想到要注意的點 不過我覺得有一點複雜 可能是我自己的問題吧哈哈哈
 
 
-# In[20]:
-
-
-output = Solution().merge_sort([3,4,9,-4,5])
-output
-
-
-# In[ ]:
 
 
 
