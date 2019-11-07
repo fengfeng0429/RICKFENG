@@ -14,10 +14,10 @@ week 4 筆記:<br>
 week 4 練習:<br>
 [insertion sort](https://github.com/fengfeng0429/RICKFENG-DSA/blob/master/leetcode/week%204/insertion%20sort.py)<br>
 [setmismatch](https://github.com/fengfeng0429/RICKFENG-DSA/blob/master/leetcode/week%204/setmismatch.py)<br>
-week 4 作業:<br>
+week 4 HW1作業:<br>
 [Quick Sort](https://github.com/fengfeng0429/RICKFENG-DSA/blob/master/leetcode/week%204/HW1/Quick%20sort%2004121106.ipynb)<br>
 [Quick Sort drawing](https://github.com/fengfeng0429/RICKFENG-DSA/blob/master/leetcode/week%204/HW1/Quick%20Sort%20Diagram.svg)<br>
-week 5 作業:<br>
+week 5 HW2作業:<br>
 [Hw2 Merge sort&Heap sort](https://github.com/fengfeng0429/RICKFENG-DSA/tree/master/leetcode/week%205/HW2)<br>
 week 6 練習:<br>
 [Binary tree](https://github.com/fengfeng0429/RICKFENG-DSA/blob/master/leetcode/week%206/Binary%20Tree.py)<br>
