@@ -12,8 +12,8 @@ class Solution(object):
             L = nums[:mid] # Dividing the array elements  
             R = nums[mid:] # into 2 halves 
   
-            mergeSort(L) # Sorting the first half 
-            mergeSort(R) # Sorting the second half 
+            merge_sort(L) # Sorting the first half 
+            merge_sort(R) # Sorting the second half 
   
             i = j = k = 0
           
